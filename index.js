@@ -147,7 +147,7 @@ Aşağıdakileri cocukSarkisi fonksiyonunda yap:
 function cocukSarkisi(/*buraya kodunu yazabilirsin*/) {
   /*buraya kodunu yazabilirsin*/
 }
-
+console.log("deneme2")
 /* Görev 6 : Not Hesaplayıcı */
 
 /*
