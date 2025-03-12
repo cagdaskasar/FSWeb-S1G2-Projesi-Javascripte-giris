@@ -130,7 +130,7 @@ Google'da arama ipucu: "feet cm dönüştürme"
 function feetDonusturucu(/*buraya kodunu yazabilirsin*/) {
   /*buraya kodunu yazabilirsin*/
 }
-
+console.log("cagdas")
 /* Görev 5 : 5 küçük maymun yatakta zıplamış şarkısını çocuklar için hazırladığımı varsayalım. https://www.youtube.com/watch?v=e4EJ34xnlxk */
 
 /*
@@ -166,6 +166,8 @@ Aşağdakileri notHesapla fonksiyonunda yap.
 function notHesapla(/*buraya kodunu yazabilirsin*/) {
   /*buraya kodunu yazabilirsin*/
 }
+console.log("test");
+
 
 /* Bonus Çalışma: Sesli harf sayacı - Kaç tane sesli harf var? */
 
